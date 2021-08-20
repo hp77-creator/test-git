@@ -1,0 +1,2 @@
+# Guidelines
+ add before commit
