@@ -1,0 +1,1 @@
+Only video seen in lecture 4. Tried to understand that how do the various image segmenatations is taking place. No code implementation done yet
